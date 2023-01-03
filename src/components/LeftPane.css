@@ -1,0 +1,6 @@
+.left-pane {
+    width: 35%;
+    border:solid 1px green;
+    padding: 5px;
+    height: 100vh;
+}
